@@ -1,36 +1,182 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
 
-## Getting Started
+# Vanttage Landing
 
-First, run the development server:
+Landing page oficial de **Vanttage**, una boutique de ingeniería de software enfocada en simplificar procesos empresariales mediante arquitectura tecnológica, automatización y transformación digital.
+
+**Ingeniería de software para simplificar negocios**
+
+</div>
+
+---
+
+# Sobre el Proyecto
+
+Este repositorio contiene el desarrollo de la **landing page institucional de Vanttage**.
+
+La landing tiene como objetivo presentar nuestra visión de ingeniería, nuestros servicios y nuestra filosofía de trabajo para ayudar a empresas a mejorar su operación mediante tecnología.
+
+Desde Vanttage entendemos que la tecnología debe **reducir complejidad**, no aumentarla.
+
+Por eso desarrollamos soluciones enfocadas en:
+
+- simplificar procesos empresariales
+- automatizar tareas repetitivas
+- optimizar flujos operativos
+- modernizar infraestructura tecnológica
+- construir sistemas escalables
+
+Nuestra filosofía de ingeniería se resume en una sola regla:
+
+> **Si no simplifica, no se construye.**
+
+---
+
+# Filosofía de Ingeniería
+
+En **Vanttage** entendemos el software como una herramienta de alivio operativo.
+
+No buscamos crear sistemas complejos que generen más carga administrativa, sino soluciones que permitan a las empresas enfocarse en lo que realmente importa: su crecimiento.
+
+Nuestro enfoque de ingeniería se basa en cuatro pilares:
+
+### Precisión a Escala
+Diseñamos sistemas robustos capaces de crecer sin romperse.
+
+### Artesanía Técnica
+Código limpio, mantenible y pensado para evolucionar.
+
+### Compromiso de Autor
+Trabajo directo con ingenieros, sin intermediarios innecesarios.
+
+### Ingeniería de Alivio
+El software debe trabajar para la empresa, no la empresa para el software.
+
+---
+
+# Stack Tecnológico
+
+Esta landing está construida utilizando tecnologías modernas orientadas a rendimiento y escalabilidad.
+
+- **Next.js**
+- **React**
+- **TypeScript**
+- **Tailwind CSS**
+- **Node.js**
+
+Pensada para ser desplegada en infraestructura moderna como:
+
+- **Vercel**
+- **Netlify**
+- **Cloud Platforms**
+
+---
+
+# Instalación del Proyecto
+
+Clonar el repositorio:
+
+```bash
+git clone https://github.com/vanttage/landing-vanttage.git
+```
+
+Entrar al directorio del proyecto:
+
+```bash
+cd landing-vanttage
+```
+
+Instalar dependencias:
+
+```bash
+npm install
+```
+
+---
+
+# Ejecutar en entorno de desarrollo
+
+Iniciar servidor local:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abrir en el navegador:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+# Estructura del Proyecto
 
-To learn more about Next.js, take a look at the following resources:
+```
+landing-vanttage
+│
+├── public
+│
+├── src
+│   ├── app
+│   │   ├── layout.tsx
+│   │   └── page.tsx
+│   │
+│   ├── components
+│   │   ├── Navbar
+│   │   ├── Hero
+│   │   ├── Services
+│   │   ├── About
+│   │   └── Footer
+│   │
+│   ├── styles
+│
+├── package.json
+├── next.config.js
+└── README.md
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+# Objetivo de la Landing
 
-## Deploy on Vercel
+La landing tiene como propósito comunicar claramente:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- quiénes somos
+- cómo trabajamos
+- qué tipo de soluciones desarrollamos
+- cómo ayudamos a las empresas a optimizar su operación
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Más que vender tecnología, buscamos mostrar **cómo la ingeniería puede simplificar negocios reales**.
+
+---
+
+# Deploy
+
+El proyecto puede desplegarse fácilmente usando plataformas modernas.
+
+Deploy recomendado con **Vercel**:
+
+```bash
+npx vercel
+```
+
+O conectar el repositorio directamente desde la plataforma.
+
+---
+
+# Licencia
+
+Este proyecto pertenece a **Vanttage**.
+
+Uso institucional y desarrollo interno.
+
+---
+
+<div align="center">
+
+**Vanttage**
+
+Ingeniería de software para simplificar negocios.
+
+</div>
