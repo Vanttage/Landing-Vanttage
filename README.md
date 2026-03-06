@@ -41,15 +41,19 @@ No buscamos crear sistemas complejos que generen más carga administrativa, sino
 Nuestro enfoque de ingeniería se basa en cuatro pilares:
 
 ### Precisión a Escala
+
 Diseñamos sistemas robustos capaces de crecer sin romperse.
 
 ### Artesanía Técnica
+
 Código limpio, mantenible y pensado para evolucionar.
 
 ### Compromiso de Autor
+
 Trabajo directo con ingenieros, sin intermediarios innecesarios.
 
 ### Ingeniería de Alivio
+
 El software debe trabajar para la empresa, no la empresa para el software.
 
 ---
